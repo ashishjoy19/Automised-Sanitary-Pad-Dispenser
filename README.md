@@ -1,0 +1,2 @@
+# Automised-Sanitary-Pad-Dispenser
+The "Automatic Sanitary Pad Dispenser" project is a comprehensive initiative aimed at addressing the menstrual hygiene needs of women. It involves the development of a user-friendly and automated dispenser for sanitary pads, complemented by a UPI payment integration for contactless transactions. This project strives to make sanitary pads more accessible, convenient, and discreet for women in public spaces such as schools, colleges, offices, and transportation hubs.
